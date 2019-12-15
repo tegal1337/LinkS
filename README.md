@@ -1,7 +1,9 @@
-
+<center>
+  
 ## LinkS (Simple Backlink Generator)
 
 ![Screenshoot](/links.png)
+</center>
 <br>
 LinkS adalah sebuah tool sederhana yang ditulis menggunakan Python, yang berfungsi untuk membuat puluhan backlink secara otomatis pada website yang sudah dikumpulkan
 <br>
